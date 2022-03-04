@@ -16,5 +16,3 @@
 - 📫 How to reach us: chat@simplex.chat
 
 ### Make a private connection!
-
-<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/screen-progress.webp" alt="make a private connection" height="360">
