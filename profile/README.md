@@ -1,6 +1,6 @@
-# SimpleX Chat - 100% private by design!
+# SimpleX Chat
 
-### You control your chat – SimpleX platform has no access to your connection graph
+### The first messaging platform that has no user identifiers of any kind - 100% private by design.
 
 [<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/apple_store.svg" alt="iOS app" height="42">](https://apps.apple.com/us/app/simplex-chat/id1605771084)
 &nbsp;
